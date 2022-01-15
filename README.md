@@ -12,7 +12,7 @@
 7. [Requisitos implementados](#requisitos-implementados)
 
 ## Sobre: 
-Criei um projeto estruturado que utiliza padrão de arquitetura MVC e uma interface gráfica interativa por meio do Java Swing que auxilia na gestão financeira pessoal utilizando linguagem de programação Java e o banco de dados MySql. No programa é possível inserir e excluir receitas, despesas, cadastrar contas e vê o saldo total. 
+Criei um projeto estruturado com padrões de arquitetura MVC e uma interface gráfica interativa, por meio do Java Swing, que auxilia na gestão financeira pessoal utilizando linguagem de programação Java e o banco de dados MySql. No programa é possível inserir e excluir receitas e despesas, cadastrar contas e vê o saldo total. 
 
 ## Requisitos para rodar a solução:
 MySql Workbench
