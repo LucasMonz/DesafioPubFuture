@@ -19,7 +19,7 @@ Criei um projeto estruturado com padrões de arquitetura MVC e uma interface gr�
 - Java 17
 
 ## Como rodar a solução:
-1. Faça download do arquivo 
+1. Faça download do arquivo `bd_controle-financeiro.sql`
 
 ## Documentação: 
 A documentação está presente no código-fonte.
