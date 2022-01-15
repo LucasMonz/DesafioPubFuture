@@ -68,13 +68,9 @@ A documentação está presente no código-fonte.
 
 ![Tela Movimentação](https://user-images.githubusercontent.com/95294368/149587240-d26553e6-8c46-4236-a4e5-86796f361cd3.jpg)
 
-- Inserir receita:
+- Inserir receita e despesa:
 
-![Tela Cadastro de Conta - Receita](https://user-images.githubusercontent.com/95294368/149587256-5ab90a95-6bce-43b5-9707-294c37846e4e.jpg)
-
-- Inserir despesa:
-
-![Tela Cadastro de Conta - Despesa](https://user-images.githubusercontent.com/95294368/149587254-e621866c-8a34-42bc-be66-24f53c362921.jpg)
+![Movimentação - Inserir receita e despesa](https://user-images.githubusercontent.com/95294368/149638479-764f43fa-5e63-4d87-b4b2-2d385eedd520.gif)
 
 - Alterar despesa:
 
