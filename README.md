@@ -88,12 +88,12 @@ A documentação está presente no código-fonte.
 
 ### Receitas
 - [x] Cadastrar receitas ✔️
-  - valor ✔️
-  - dataRecebimento ✔️
-  - dataRecebimentoEsperado ❌
-  - descrição ✔️
-  - conta ✔️
-  - tipoReceita (salário, presente, prêmio, outros) ❌
+  - [x] valor ✔️
+  - [x] dataRecebimento ✔️
+  - [ ] dataRecebimentoEsperado ❌
+  - [x] descrição ✔️
+  - [x] conta ✔️
+  - [ ] tipoReceita (salário, presente, prêmio, outros) ❌
 - Editar receitas ✔️
 - Remover receitas ✔️
 - Listar receitas ✔️
