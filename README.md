@@ -72,17 +72,9 @@ A documentação está presente no código-fonte.
 
 ![Movimentação - Inserir receita e despesa](https://user-images.githubusercontent.com/95294368/149638479-764f43fa-5e63-4d87-b4b2-2d385eedd520.gif)
 
-- Alterar despesa:
+- Alterar e excluir despesa:
 
-![Tela Alteração](https://user-images.githubusercontent.com/95294368/149587250-75813b33-b323-4f34-b7b7-554723155389.jpg)
-
-- Excluir despesa:
-
-![Tela de Excluir](https://user-images.githubusercontent.com/95294368/149587260-c597d58e-4ba7-496f-848a-1670dc9b73f2.jpg)
-
-- Botão Sair:
-
-![Botão de Sair](https://user-images.githubusercontent.com/95294368/149587242-c458eb8d-91d6-4f27-9901-4c561252c601.jpg)
+![Movimentacao - Alterar e excluir](https://user-images.githubusercontent.com/95294368/149641089-f7d789a3-0c41-4de8-9d59-f50815913d20.gif)
 
 
 ## Requisitos implementados: 
