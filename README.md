@@ -7,6 +7,7 @@
 2. [Requisitos para rodar a solução](#requisitos-para-rodar-a-solução)
 3. [Como rodar a solução](#como-rodar-a-solução)
    - [Banco de dados](#banco-de-dados)
+   - [Aplicação](#aplicação)
 4. [Documentação](#documentação)
 5. [Ferramentas utilizadas](#documentação)
 6. [Programa](#programa)
@@ -22,6 +23,9 @@ Criei um projeto estruturado com padrões de arquitetura MVC e uma interface gr�
 ## Como rodar a solução:
    ### Banco de dados:
    1. Faça download do arquivo `bd_controle-financeiro.sql`
+   2. 
+   ### Aplicação:
+   1.
 
 ## Documentação: 
 A documentação está presente no código-fonte.
