@@ -93,35 +93,35 @@ A documentação está presente no código-fonte.
   - [ ] dataRecebimentoEsperado 
   - [x] descrição 
   - [x] conta 
-  - [ ] tipoReceita (salário, presente, prêmio, outros) ❌
-- [x] Editar receitas ✔️
-- [x] Remover receitas ✔️
-- [x] Listar receitas ✔️
-- [x] Filtro por período (dataInicial – dataFinal) ✔️
-- [x] Filtro por tipo de receita ✔️
-- [x] Listar total de receitas ✔️
+  - [ ] tipoReceita (salário, presente, prêmio, outros) 
+- [x] Editar receitas 
+- [x] Remover receitas 
+- [x] Listar receitas 
+- [x] Filtro por período (dataInicial – dataFinal) 
+- [x] Filtro por tipo de receita 
+- [x] Listar total de receitas 
 ### Despesas
-- [x] Cadastrar despesas ✔️
-  - [x] valor ✔️
-  - [x] dataPagamento ✔️
-  - [ ] dataPagamentoEsperado ❌
-  - [ ] tipoDespesa ❌
-  - [x] conta ✔️
-- [x] Editar despesas ✔️
-- [x] Remover despesas ✔️
-- [x] Listar despesas ✔️
-- [x] Filtro por período (dataInicial – dataFinal) ✔️
-- [x] Filtro por tipo de despesa ✔️
-- [x] Listar total de despesas ✔️
+- [x] Cadastrar despesas 
+  - [x] valor 
+  - [x] dataPagamento 
+  - [ ] dataPagamentoEsperado 
+  - [ ] tipoDespesa 
+  - [x] conta 
+- [x] Editar despesas 
+- [x] Remover despesas 
+- [x] Listar despesas 
+- [x] Filtro por período (dataInicial – dataFinal) 
+- [x] Filtro por tipo de despesa 
+- [x] Listar total de despesas 
 ### Contas
-- [x] Cadastrar conta ✔️
-  - [x] saldo ✔️
-  - [ ] tipoConta (carteira, conta corrente, poupança) ❌
-  - [ ] instituicaoFinanceira ❌
-- [x] Editar conta ✔️
-- [x] Remover conta ✔️
-- [ ] Listar contas ❌
-- [ ] Transferir saldo entre contas ❌
-- [x] Listar saldo total ✔️
+- [x] Cadastrar conta 
+  - [x] saldo 
+  - [ ] tipoConta (carteira, conta corrente, poupança) 
+  - [ ] instituicaoFinanceira 
+- [x] Editar conta 
+- [x] Remover conta 
+- [ ] Listar contas 
+- [ ] Transferir saldo entre contas 
+- [x] Listar saldo total 
 
 ℹ️ tipoConta e instiuicaoFinanceira não são opções na interface mas podem ser inseridas no campo "Descrição".
