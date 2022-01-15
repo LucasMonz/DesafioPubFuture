@@ -87,41 +87,41 @@ A documentação está presente no código-fonte.
 ## Requisitos implementados: 
 
 ### Receitas
-- [x] Cadastrar receitas ✔️
-  - [x] valor ✔️
-  - [x] dataRecebimento ✔️
-  - [ ] dataRecebimentoEsperado ❌
-  - [x] descrição ✔️
-  - [x] conta ✔️
+- [x] Cadastrar receitas 
+  - [x] valor 
+  - [x] dataRecebimento 
+  - [ ] dataRecebimentoEsperado 
+  - [x] descrição 
+  - [x] conta 
   - [ ] tipoReceita (salário, presente, prêmio, outros) ❌
-- Editar receitas ✔️
-- Remover receitas ✔️
-- Listar receitas ✔️
-- Filtro por período (dataInicial – dataFinal) ✔️
-- Filtro por tipo de receita ✔️
-- Listar total de receitas ✔️
+- [x] Editar receitas ✔️
+- [x] Remover receitas ✔️
+- [x] Listar receitas ✔️
+- [x] Filtro por período (dataInicial – dataFinal) ✔️
+- [x] Filtro por tipo de receita ✔️
+- [x] Listar total de receitas ✔️
 ### Despesas
-- Cadastrar despesas ✔️
-  - valor ✔️
-  - dataPagamento ✔️
-  - dataPagamentoEsperado ❌
-  - tipoDespesa ❌
-  - conta ✔️
-- Editar despesas ✔️
-- Remover despesas ✔️
-- Listar despesas ✔️
-- Filtro por período (dataInicial – dataFinal) ✔️
-- Filtro por tipo de despesa ✔️
-- Listar total de despesas ✔️
+- [x] Cadastrar despesas ✔️
+  - [x] valor ✔️
+  - [x] dataPagamento ✔️
+  - [ ] dataPagamentoEsperado ❌
+  - [ ] tipoDespesa ❌
+  - [x] conta ✔️
+- [x] Editar despesas ✔️
+- [x] Remover despesas ✔️
+- [x] Listar despesas ✔️
+- [x] Filtro por período (dataInicial – dataFinal) ✔️
+- [x] Filtro por tipo de despesa ✔️
+- [x] Listar total de despesas ✔️
 ### Contas
-- Cadastrar conta ✔️
-  - saldo ✔️
-  - tipoConta (carteira, conta corrente, poupança) ❌
-  - instituicaoFinanceira ❌
-- Editar conta ✔️
-- Remover conta ✔️
-- Listar contas ❌
-- Transferir saldo entre contas ❌
-- Listar saldo total ✔️
+- [x] Cadastrar conta ✔️
+  - [x] saldo ✔️
+  - [ ] tipoConta (carteira, conta corrente, poupança) ❌
+  - [ ] instituicaoFinanceira ❌
+- [x] Editar conta ✔️
+- [x] Remover conta ✔️
+- [ ] Listar contas ❌
+- [ ] Transferir saldo entre contas ❌
+- [x] Listar saldo total ✔️
 
 ℹ️ tipoConta e instiuicaoFinanceira não são opções na interface mas podem ser inseridas no campo "Descrição".
