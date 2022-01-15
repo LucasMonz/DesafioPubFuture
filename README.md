@@ -2,10 +2,17 @@
 
 ## Terceira etapa do processo seletivo da PubFuture: criar uma solução que auxilie no controle das finanças pessoais.
 
-Sobre a solução: Criei um projeto estruturado que utiliza padrão de arquitetura MVC e uma interface gráfica interativa por meio do Java Swing que auxilia na gestão financeira pessoal utilizando linguagem de programação Java e o banco de dados MySql. No programa é possível inserir e excluir receitas, despesas, cadastrar contas e vê o saldo total. 
+
+
+## Sobre: 
+Criei um projeto estruturado que utiliza padrão de arquitetura MVC e uma interface gráfica interativa por meio do Java Swing que auxilia na gestão financeira pessoal utilizando linguagem de programação Java e o banco de dados MySql. No programa é possível inserir e excluir receitas, despesas, cadastrar contas e vê o saldo total. 
 
 ## Requisitos para rodar a solução:
-Como sou iniciante na área, infelizmente não sei como compartilhar o programa para ele rodar em conjunto com o banco de dados ao mesmo tempo.
+MySql Workbench
+Java 17
+
+## Como rodar a solução:
+1. Faça download do arquivo 
 
 ## Documentação: 
 A documentação está presente no código-fonte.
@@ -80,7 +87,7 @@ A documentação está presente no código-fonte.
 ## Requisitos implementados: 
 
 ### Receitas
-- Cadastrar receitas ✔️
+- [x] Cadastrar receitas ✔️
   - valor ✔️
   - dataRecebimento ✔️
   - dataRecebimentoEsperado ❌
