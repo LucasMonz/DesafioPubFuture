@@ -2,11 +2,14 @@
 
 ## Terceira etapa do processo seletivo da PubFuture: criar uma solução que auxilie no controle das finanças pessoais.
 
-# Table of contents
+## Sumário
 1. [Sobre](#Sobre)
-2. [Requisitos para rodar a solução:](#requisitos-para-rodar-a-solução)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
+2. [Requisitos para rodar a solução](#requisitos-para-rodar-a-solução)
+3. [Como rodar a solução](#como-rodar-a-solução)
+4. [Documentação](#documentação)
+5. [Ferramentas utilizadas](#documentação)
+6. [Programa](#programa)
+7. [Requisitos implementados](#requisitos-implementados)
 
 ## Sobre: 
 Criei um projeto estruturado que utiliza padrão de arquitetura MVC e uma interface gráfica interativa por meio do Java Swing que auxilia na gestão financeira pessoal utilizando linguagem de programação Java e o banco de dados MySql. No programa é possível inserir e excluir receitas, despesas, cadastrar contas e vê o saldo total. 
