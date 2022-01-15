@@ -4,7 +4,7 @@
 
 ## Sumário
 1. [Sobre](#Sobre)
-2. [Requisitos para rodar a solução](#requisitos-para-rodar-a-solução)
+2. [Pré-requisitos para rodar a solução:](#Pré-requisitos-para-rodar-a-solução:)
 3. [Como rodar a solução](#como-rodar-a-solução)
    - [Banco de dados](#banco-de-dados)
    - [Aplicação](#aplicação)
@@ -16,7 +16,7 @@
 ## Sobre: 
 Criei um projeto estruturado com padrões de arquitetura MVC e uma interface gráfica interativa, por meio do Java Swing, que auxilia na gestão financeira pessoal utilizando linguagem de programação Java e o banco de dados MySql. No programa é possível inserir e excluir receitas e despesas, cadastrar contas e vê o saldo total. 
 
-## Requisitos para rodar a solução:
+## Pré-requisitos para rodar a solução:
 - MySql Workbench
 - Java 17
 
