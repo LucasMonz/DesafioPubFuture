@@ -50,7 +50,7 @@ A documentação está presente no código-fonte.
 
 - Inicialização:
 
-![Inicialização](https://user-images.githubusercontent.com/95294368/149587246-01a38b8b-7b3f-469b-aad2-e5fac06db6f4.jpg)
+![Iniciazalização](https://user-images.githubusercontent.com/95294368/149638195-3ff3a13b-020f-4a90-845d-538213656325.gif)
 
 - Tela inicial:
 
