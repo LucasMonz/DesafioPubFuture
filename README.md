@@ -4,7 +4,7 @@
 
 # Table of contents
 1. [Sobre](#Sobre)
-2. [Requisitos para rodar a solução:](##requisitos-para-rodar-a-solução)
+2. [Requisitos para rodar a solução:](#requisitos-para-rodar-a-solução)
     1. [Sub paragraph](#subparagraph1)
 3. [Another paragraph](#paragraph2)
 
