@@ -1,4 +1,4 @@
-# DesafioPubFuture
+# Desafio PubFuture
 
 ## Terceira etapa do processo seletivo da PubFuture: criar uma solução que auxilie no controle das finanças pessoais.
 
