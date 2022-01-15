@@ -4,7 +4,7 @@
 
 Sobre a solução: Criei um projeto estruturado que utiliza padrão de arquitetura MVC e uma interface gráfica interativa por meio do Java Swing que auxilia na gestão financeira pessoal utilizando linguagem de programação Java e o banco de dados MySql. No programa é possível inserir e excluir receitas, despesas, cadastrar contas e vê o saldo total. 
 
-## Requisitos:
+## Requisitos para rodar a solução:
 Como sou iniciante na área, infelizmente não sei como compartilhar o programa para ele rodar em conjunto com o banco de dados ao mesmo tempo.
 
 ## Documentação: 
@@ -25,8 +25,6 @@ A documentação está presente no código-fonte.
   <td>11.3.0.6295</td>
  </tr>
 </table>
-
-## Requisitos para rodar a solução:
 
 ## Programa:
 
