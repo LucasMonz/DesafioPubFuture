@@ -326,11 +326,13 @@ public class TelaMovimentacao extends javax.swing.JDialog {
                 t.atualizaCombo();
                 t.preencheCampos(lista.get(tabela.getSelectedRow()));
                 t.setVisible(true);
+                atualizaTabela();
             } else {
                 t.setDespesa(false);
                 t.atualizaCombo();
                 t.preencheCampos(lista.get(tabela.getSelectedRow()));
                 t.setVisible(true);
+                atualizaTabela();
             }
         } else {
             Msg.alert(this, "Selecione um registro!");
