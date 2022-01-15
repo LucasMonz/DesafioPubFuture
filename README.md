@@ -20,7 +20,7 @@ Criei um projeto estruturado com padrões de arquitetura MVC e uma interface gr�
 
 ## Como rodar a solução:
    ### Banco de dados:
-       1. Faça download do arquivo `bd_controle-financeiro.sql`
+   1. Faça download do arquivo `bd_controle-financeiro.sql`
 
 ## Documentação: 
 A documentação está presente no código-fonte.
