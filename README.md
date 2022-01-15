@@ -90,7 +90,7 @@ A documentação está presente no código-fonte.
 - [x] Editar receitas 
 - [x] Remover receitas 
 - [x] Listar receitas 
-- [x] Filtro por período (dataInicial – dataFinal) 
+- [ ] Filtro por período (dataInicial – dataFinal) 
 - [x] Filtro por tipo de receita 
 - [x] Listar total de receitas 
 ### Despesas
@@ -103,8 +103,8 @@ A documentação está presente no código-fonte.
 - [x] Editar despesas 
 - [x] Remover despesas 
 - [x] Listar despesas 
-- [x] Filtro por período (dataInicial – dataFinal) 
-- [x] Filtro por tipo de despesa 
+- [ ] Filtro por período (dataInicial – dataFinal) 
+- [ ] Filtro por tipo de despesa 
 - [x] Listar total de despesas 
 ### Contas
 - [x] Cadastrar conta 
