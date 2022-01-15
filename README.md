@@ -60,17 +60,9 @@ A documentação está presente no código-fonte.
 
 ![Tela Categoria](https://user-images.githubusercontent.com/95294368/149587258-00c41d5a-3b9e-4df4-8fbf-d4579bae3929.jpg)
 
-- Inserir categoria:
+- Inserir, alterar e excluir categoria:
 
-![Tela Cadastro de Categoria](https://user-images.githubusercontent.com/95294368/149587253-d4e2dd13-83e8-462a-8038-ca35a5e73afb.jpg)
-
-- Alterar categoria:
-
-![Tela Alteração de Categoria](https://user-images.githubusercontent.com/95294368/149587248-0127c301-36dc-43b6-9c01-bf614eca7982.jpg)
-
-- Excluir categoria:
-
-![Tela Exclusão de Categoria](https://user-images.githubusercontent.com/95294368/149587262-307adfa2-930c-4e42-a9d7-3c323cb119d3.jpg)
+![Categoria](https://user-images.githubusercontent.com/95294368/149638304-c07ead95-9fd9-4ec9-81b8-825b76d718b7.gif)
 
 - Movimentação:
 
