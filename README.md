@@ -4,7 +4,7 @@
 
 ## Sumário
 1. [Sobre](#Sobre)
-2. [Pré-requisitos para rodar a solução:](#Pré-requisitos-para-rodar-a-solução:)
+2. [Pré-requisitos para rodar a solução:](#pré-requisitos-para-rodar-a-solução)
 3. [Como rodar a solução](#como-rodar-a-solução)
    - [Banco de dados](#banco-de-dados)
    - [Aplicação](#aplicação)
