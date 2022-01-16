@@ -1,11 +1,11 @@
 # Desafio PubFuture
 
-## Segunda etapa do processo seletivo da PubFuture: criar uma solução que auxilie no controle das finanças pessoais.
+## Segunda etapa do processo seletivo da PubFuture: criar um sistema responsável por gerenciar as finanças pessoais.
 
 ## Sumário
 1. [Sobre](#Sobre)
-2. [Pré-requisitos para rodar a solução:](#pré-requisitos-para-rodar-a-solução)
-3. [Como rodar a solução](#como-rodar-a-solução)
+2. [Pré-requisitos para rodar o sistema:](#pré-requisitos-para-rodar-o-sistema)
+3. [Como rodar o sistema](#como-rodar-o-sistema)
    - [Banco de dados](#banco-de-dados)
    - [Aplicação](#aplicação)
 4. [Documentação](#documentação)
@@ -16,7 +16,7 @@
 ## Sobre: 
 Criei um projeto estruturado com padrões de arquitetura MVC e uma interface gráfica interativa, por meio do Java Swing, que auxilia na gestão financeira pessoal utilizando linguagem de programação Java e o banco de dados MySql. No programa é possível inserir e excluir receitas e despesas, cadastrar contas e vê o saldo total. 
 
-## Pré-requisitos para rodar a solução:
+## Pré-requisitos para rodar o sistema:
 <table>
  <tr> 
   <td>Java</td>
@@ -24,7 +24,7 @@ Criei um projeto estruturado com padrões de arquitetura MVC e uma interface gr�
  </tr>
 </table>
 
-## Como rodar a solução:
+## Como rodar o sistema:
    ### Banco de dados:
    1. Faça download do arquivo ZIP do projeto
    2. Abra o zip e procure o arquivo `bd_controle-financeiro.sql`
