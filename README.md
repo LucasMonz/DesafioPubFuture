@@ -20,7 +20,7 @@ Criei um projeto estruturado com padrões de arquitetura MVC e uma interface gr�
 <table>
  <tr> 
   <td>Java</td>
-  <td>MySql Workbench</td>
+  <td>MySQL Workbench</td>
  </tr>
 </table>
 
@@ -37,7 +37,7 @@ Criei um projeto estruturado com padrões de arquitetura MVC e uma interface gr�
    9. Verifique se o banco de dados "controle" foi importado com sucesso.
 
    ### Aplicação:
-   1. Faça o download do `Sistema de Controle Financeiro Pessoal.jar`
+   1. Extraia o arquivo `Sistema de Controle Financeiro Pessoal.jar`
    2. Abra na sua máquina
    3. Verifique se está rodando com sucesso.
 
