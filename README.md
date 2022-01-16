@@ -29,11 +29,12 @@ Criei um projeto estruturado com padrões de arquitetura MVC e uma interface gr�
    1. Faça download do arquivo ZIP do projeto
    2. Abra o zip e procure o arquivo `bd_controle-financeiro.sql`
    3. Abra o MySQL Workbench
-   4. Tools > Data Import > Import from Self-Contained File
-   5. Vá na pasta em que você salvou o arquivo `bd_controle-financeiro.sql` e o escolha
-   6. Start Import
-   7. Logue no MySQL Workbench com seu localhost e a sua senha
-   8. Verifique se o banco de dados "controle" foi importado com sucesso.
+   4. Logue na Local instance
+   5. Tools > Data Import > Import from Self-Contained File
+   6. Vá na pasta em que você salvou o arquivo `bd_controle-financeiro.sql` e o escolha
+   7. Start Import
+   8. Logue no MySQL Workbench com seu localhost e a sua senha
+   9. Verifique se o banco de dados "controle" foi importado com sucesso.
 
    ### Aplicação:
    1. Faça o download do `Sistema de Controle Financeiro Pessoal.jar`
