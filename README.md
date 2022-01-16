@@ -36,9 +36,10 @@ Criei um projeto estruturado com padrões de arquitetura MVC e uma interface gr�
    8. Verifique se o banco de dados "controle" foi importado com sucesso.
 
    ### Aplicação:
-   1. Baixe o `Sistema de Controle Financeiro Pessoal.jar`
-   2. Abra na sua máquina
-   3. Verifique se está rodando com sucesso.
+   1. Abra o arquivo ZIP do projeto baixado anteriormente 
+   2. Extraia o arquivo `Sistema de Controle Financeiro Pessoal.jar`
+   3. Abra na sua máquina
+   4. Verifique se está rodando com sucesso.
 
 ## Documentação: 
 A documentação está presente no código-fonte.
