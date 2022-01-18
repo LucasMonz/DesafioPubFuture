@@ -26,8 +26,8 @@ Criei um projeto estruturado com padrões de arquitetura MVC e uma interface gr�
 
 ## Como rodar o sistema:
    ### Banco de dados:
-   1. Faça download do arquivo ZIP do projeto
-   2. Abra o zip e procure o arquivo `bd_controle-financeiro.sql`
+   1. Faça download do arquivo .ZIP do projeto
+   2. Abra o .ZIP e procure o arquivo `bd_controle-financeiro.sql`
    3. Abra o MySQL Workbench
    4. Logue na Local instance
    5. Tools > Data Import > Import from Self-Contained File
